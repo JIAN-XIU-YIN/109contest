@@ -447,7 +447,7 @@ footer{
 }
 /*======================================*/
 .modal-img img{
-	width: 300px;
+	width: 100%;
 }
 /*======================================*/
 @media (max-width: 576px) {
@@ -478,9 +478,6 @@ footer{
 	}
 	.alignj{
 		padding-top: 20px;
-	}
-	.modal-img img{
-		width: 300px;
 	}
 	.f100{
 		font-size: 80px;
