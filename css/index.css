@@ -411,6 +411,9 @@ footer{
 	transform: scale(1.05);
 	box-shadow: 0px 0px 10px #465064;
 }
+.modal-img img{
+    width: 100%;
+}
 /*======================================*/
 .x{
 	animation: xm 1.5s forwards;
