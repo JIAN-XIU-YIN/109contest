@@ -446,10 +446,6 @@ footer{
 	max-width: 100%;
 }
 /*======================================*/
-.modal-img img{
-	width: 100%;
-}
-/*======================================*/
 @media (max-width: 576px) {
 	#carouselExampleControls{
 		display: none;
